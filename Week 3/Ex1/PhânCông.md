@@ -5,3 +5,5 @@ Phân công : Lý Minh Phát
 Phân công : Lê Quốc Nam
 # Case Study: LLMs:
 Phân công : Lê Khánh Hoàng
+# Tổng hợp và trình bày:
+Phân công : Nguyễn Văn An
