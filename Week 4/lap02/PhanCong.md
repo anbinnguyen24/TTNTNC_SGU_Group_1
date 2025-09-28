@@ -1,4 +1,4 @@
-### PHÂN CÔNG CHO Lap02
+### PHÂN CÔNG CHO LAP 02 - SEARCH (TT)
 # Lap02_01_Agents
 Phân công : Lý Minh Phát , Lê Quốc Nam
 # Lap02_02_Search
