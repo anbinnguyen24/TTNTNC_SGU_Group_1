@@ -1,9 +1,8 @@
-### TRÍ TUỆ NHÂN TẠO NÂNG CAO - NHÓM 1
+## TRÍ TUỆ NHÂN TẠO NÂNG CAO - NHÓM 1
 
 ## Table of contents
 * [Danh sách thành viên nhóm](#thành-viên)
 * [Tiến độ làm việc](#process)
-
 
 
 ## THÀNH VIÊN
