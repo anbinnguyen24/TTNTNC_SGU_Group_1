@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [Danh sách thành viên nhóm](#thành-viên)
-* [Tiến độ làm việc](#-process)
+* [Tiến độ làm việc](#process)
 
 
 
