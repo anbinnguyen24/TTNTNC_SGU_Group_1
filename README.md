@@ -10,6 +10,10 @@
 - 3122410294 - Lý Minh Phát
 - 3122410125 - Lê Khánh Hoàng
 - 3122410247 - Lê Quốc Nam
+| MSSV | Họ tên | Nhóm trưởng |
+|------|-----------------|------|
+| 3122410004 |  Nguyễn Văn An  |   X   |
+| 3122410294 |  Lý Minh Phát  |   ...   |
 
    
 ## Process
