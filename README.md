@@ -1,8 +1,8 @@
 ### TRÍ TUỆ NHÂN TẠO NÂNG CAO - NHÓM 1
 
 ## Table of contents
-* [Danh sách thành viên nhóm](#thành-viên)
-* [Tiến độ làm việc](#process)
+* [Danh sách thành viên nhóm](#thành-viên-:)
+* [Tiến độ làm việc](#-process-(15-weeks))
 
 
 
@@ -11,9 +11,9 @@
 2. 3122410294 - Lý Minh Phát
 3. 3122410125 - Lê Khánh Hoàng
 4. 3122410247 - Lê Quốc Nam
+
    
 ## 📅 Process (15 Weeks)
-
 | Tuần | Nội dung (LAPS) | Trạng thái | Ghi chú |
 |------|-----------------|------------|---------|
 | WEEK 1 (01/09/2025 - 07/09/2025) | ... | ⏳ Chưa bắt đầu | ... |
