@@ -1,4 +1,11 @@
 ### TRÍ TUỆ NHÂN TẠO NÂNG CAO - NHÓM 1
+### Table of contents
+* [General info](#THÀNH VIÊN)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+
+
 ### THÀNH VIÊN :
 1. 3122410004 - Nguyễn Văn An - (nhóm trưởng)
 2. 3122410294 - Lý Minh Phát
