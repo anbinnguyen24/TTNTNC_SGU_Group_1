@@ -10,8 +10,8 @@
 |------|-----------------|------|
 | 3122410004 |  Nguyễn Văn An  | ✅ |
 | 3122410294 |  Lý Minh Phát  | ... |
-- 3122410125 - Lê Khánh Hoàng
-- 3122410247 - Lê Quốc Nam
+| 3122410125 |  Lê Khánh Hoàng  | ... |
+| 3122410247 |  Lê Quốc Nam  | ... |
    
 ## Process
 | Tuần | Nội dung (LAPS) | Trạng thái | Ghi chú |
