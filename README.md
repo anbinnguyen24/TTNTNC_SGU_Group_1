@@ -1,6 +1,6 @@
 ### TRÍ TUỆ NHÂN TẠO NÂNG CAO - NHÓM 1
 ### Table of contents
-* [General info](#THÀNH VIÊN)
+* [General info](###THÀNH-VIÊN)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
