@@ -1,18 +1,18 @@
 ### TRÍ TUỆ NHÂN TẠO NÂNG CAO - NHÓM 1
+
 ### Table of contents
-* [General info](###THÀNH-VIÊN)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Danh sách thành viên nhóm](##THÀNH-VIÊN)
+* [Tiến độ làm việc](##📅-Process)
 
 
 
-### THÀNH VIÊN :
+## THÀNH VIÊN :
 1. 3122410004 - Nguyễn Văn An - (nhóm trưởng)
 2. 3122410294 - Lý Minh Phát
 3. 3122410125 - Lê Khánh Hoàng
 4. 3122410247 - Lê Quốc Nam
 5. 
-### 📅 Process (15 Weeks)
+## 📅 Process (15 Weeks)
 
 | Tuần | Nội dung (LAPS) | Trạng thái | Ghi chú |
 |------|-----------------|------------|---------|
