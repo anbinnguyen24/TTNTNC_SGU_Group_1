@@ -1,4 +1,4 @@
-### CÁC ASSIGNMENTS THEO CÁC TUẦN ĐƯỢC GIAO
+## CÁC ASSIGNMENTS THEO CÁC TUẦN ĐƯỢC GIAO
 
-# Week 3 (15/09/2025 - 20/09/2025):
+## Week 3 (15/09/2025 - 20/09/2025):
 Ex1: Tìm hiểu và trả lời câu hỏi trong phần 1 + 2 + 3 (nhóm)
