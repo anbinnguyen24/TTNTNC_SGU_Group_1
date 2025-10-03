@@ -1,4 +1,5 @@
 ## TRÍ TUỆ NHÂN TẠO NÂNG CAO - NHÓM 1
+- Trang github của nhóm 1 - môn TRÍ TUỆ NHÂN TẠO SGU
 
 ## Table of contents
 * [Danh sách thành viên nhóm](#thành-viên)
