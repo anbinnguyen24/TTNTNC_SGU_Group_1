@@ -20,7 +20,7 @@
 | WEEK 1 (01/09/2025 - 07/09/2025) | ... | ⏳ Chưa bắt đầu | ... |
 | WEEK 2 (08/09/2025 - 14/09/2025) | ... | ⏳ Chưa bắt đầu | ... |
 | [WEEK 3 (15/09/2025 - 21/09/2025)](./Week_3/) | - [Ex1: Tìm hiểu và trả lời câu hỏi trong phần 1 + 2 + 3 (nhóm) - Làm tổng hợp nội dung](./Week_3/Ex1/) | ✅ Hoàn thành | Đã nộp báo cáo nhóm + Đăng bài làm trên github nhóm và cá nhân |
-| WEEK 4 (22/09/2025 - 28/09/2025) | - Lap02: Search (tt) | ⏳ Đang làm | ... |
+| WEEK 4 (22/09/2025 - 28/09/2025) | - [Lap02: Search (tt)](./Week_4/Lap02) | ⏳ Đang làm | ... |
 | WEEK 5 (29/09/2025 - 05/10/2025) | - Lap03: Local Search | ⏳ Đang làm | ... |
 | WEEK 6 (06/10/2025 - 12/10/2025) | ... | ... | ... |
 | WEEK 7 (13/10/2025 - 19/10/2025) | ... | ... | ... |
