@@ -3,6 +3,7 @@
 
 ## Table of contents
 * [Danh sách thành viên nhóm](#thành-viên)
+* [Cấu trúc thư mục](#cấu-trúc-thư-mục)
 * [Tiến độ làm việc](#process)
 
 
@@ -13,6 +14,35 @@
 | 3122410294 |  Lý Minh Phát  | ... |
 | 3122410125 |  Lê Khánh Hoàng  | ... |
 | 3122410247 |  Lê Quốc Nam  | ... |
+
+## CẤU TRÚC THƯ MỤC
+```text
+TTNTNC_SGU_Group_1/
+├─ Week_3/
+|  ├─ Ex1/
+|  |  ├─ Group1_3122410004_3122410294_3122410125_3122410247.docx
+|  |  ├─ LeKhanhHoang.docx
+|  |  ├─ LeQuocNam.docx
+|  |  ├─ LyMinhPhat.docx
+|  |  └─ ex1_team_assignments.md
+|  |
+│  └─ week03_assignments.md
+|
+├─ Week_4/
+│  ├─ Lap02/
+|  |  ├─ LeQuocNam/
+|  |  |  ├─ lab_2_01_LeQuocNam_3122410247.docx
+|  |  |  └─ lab_2_01_LeQuocNam_3122410247_robot-vacuum.ipynb
+|  |  ├─ LyMinhPhat/
+|  |  ├─ NguyenVanAn/
+|  |  ├─ lekhanhhoang/
+|  |  └─ lap02_team_assignments.md
+|  |
+│  └─ week04_assignments.md
+├─ Week_5/
+│  └─ Clustering.pptx
+└─ README.md
+```
    
 ## Process
 | Tuần | Nội dung  | Trạng thái | Ghi chú |
