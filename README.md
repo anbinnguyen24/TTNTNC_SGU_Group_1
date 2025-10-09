@@ -36,7 +36,7 @@ TTNTNC_SGU_Group_1/
 |  |  ├─ LeQuocNam/
 |  |  ├─ LyMinhPhat/
 |  |  ├─ NguyenVanAn/
-|  |  ├─ lekhanhhoang/
+|  |  ├─ LeKhanhHoang/
 |  |  └─ lap03_team_assignments.md
 │  └─ week05_assignments.md
 |
