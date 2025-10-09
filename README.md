@@ -32,7 +32,14 @@ TTNTNC_SGU_Group_1/
 │  └─ week04_assignments.md
 | 
 ├─ Week_5/
-│  └─ Clustering.pptx
+│  ├─ Lap03/
+|  |  ├─ LeQuocNam/
+|  |  ├─ LyMinhPhat/
+|  |  ├─ NguyenVanAn/
+|  |  ├─ lekhanhhoang/
+|  |  └─ lap03_team_assignments.md
+│  └─ week05_assignments.md
+|
 └─ README.md
 ```
    
