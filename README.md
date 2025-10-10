@@ -5,6 +5,7 @@
 * [Danh sách thành viên nhóm](#thành-viên)
 * [Cấu trúc thư mục](#cấu-trúc-thư-mục)
 * [Tiến độ làm việc](#process)
+* [Tài liệu tham khảo](#tài-liệu-học-tập)
 
 
 ## THÀNH VIÊN
@@ -61,3 +62,8 @@ TTNTNC_SGU_Group_1/
 | WEEK 13 (24/11/2025 - 30/11/2025) | ... | ... | ... |
 | WEEK 14 (01/12/2025 - 07/12/2025) | ... | ... | ... |
 | WEEK 15 (08/12/2025 - 14/12/2025) | ... | ... | ... |
+
+## Tài liệu học tập
+> *https://github.com/aimacode/aima-python/tree/master*
+> *https://github.com/mhahsler/CS7320-AI*
+---
