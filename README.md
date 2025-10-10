@@ -65,5 +65,6 @@ TTNTNC_SGU_Group_1/
 
 ## Tài liệu học tập
 > *https://github.com/aimacode/aima-python/tree/master*
+
 > *https://github.com/mhahsler/CS7320-AI*
 ---
