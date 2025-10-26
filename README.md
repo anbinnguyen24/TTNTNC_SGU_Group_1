@@ -53,7 +53,7 @@ TTNTNC_SGU_Group_1/
 | WEEK 4 (22/09/2025 - 28/09/2025) | - [Lab02: Search (tt)](./Week_4/Lap02) | ✅ Hoàn thành | Đã nộp báo cáo nhóm + Đăng bài làm trên github nhóm và cá nhân |
 | WEEK 5 (29/09/2025 - 05/10/2025) | - [Lab03: Local Search](./Week_5/lab03) | ✅ Hoàn thành |  Đã nộp báo cáo nhóm + Đăng bài làm trên github nhóm và cá nhân |
 | WEEK 6 (06/10/2025 - 12/10/2025) | ... | ... | ... |
-| WEEK 7 (13/10/2025 - 19/10/2025) | [Lab04 và Lab05](./Week_7/) | ✅ Hoàn thành | Đã nộp báo cáo nhóm + Đăng bài làm trên github nhóm và cá nhân  |
+| WEEK 7 (13/10/2025 - 19/10/2025) | [Lab04 và Lab05](./Week_7) | ✅ Hoàn thành | Đã nộp báo cáo nhóm + Đăng bài làm trên github nhóm và cá nhân  |
 | WEEK 8 (20/10/2025 - 26/10/2025) | ... | ... | ... |
 | WEEK 9 (27/10/2025 - 02/11/2025) | ... | ... | ... |
 | WEEK 10 (03/11/2025 - 09/11/2025) | ... | ... | ... |
